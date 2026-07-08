@@ -35,3 +35,10 @@ O exercício 15 está separado em 2 arquivos:
 Para testar, basta abrir o `index.php` do exercício no navegador.
 
 ## Exercício desafio
+
+O Exercício desafio está estruturado na pasta `ex_desafios/` e simula um sistema:
+
+- `ex_desafios/f_pedidos.php` - Contém as 5 funções especialistas de cálculo e regra de negócio.
+- `ex_desafios/index.php` - Consome a biblioteca, processa a matriz de produtos e exibe o fechamento financeiro.
+
+Aplica descontos progressivos e automáticos e cálculo de frete por faixas de preço bruto.
